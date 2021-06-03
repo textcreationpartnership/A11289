@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De prædestinatione, sive, De causis salutis et damnationis æternæ disputatio in qua præside D. Andrea Melvino, sacrar. literarum professore, &amp; rectore Academiæ Regiæ Andreanæ in Scotia, ... Christophorus Iohannides Danus respondebit.</title>
+         </titleStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A11289</idno><idno type="EEBO-CITATION">23096917</idno>
+  <idno type="VID">26221</idno>
+  <idno type="EEBO-PROQUEST">2240908410</idno>
+  <idno type="STC">STC 21555.1</idno>
+  <idno type="STC">ESTC S958</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A11289)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 26221)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1780:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>De prædestinatione, sive, De causis salutis et damnationis æternæ disputatio in qua præside D. Andrea Melvino, sacrar. literarum professore, &amp; rectore Academiæ Regiæ Andreanæ in Scotia, ... Christophorus Iohannides Danus respondebit.</title>
+                  <author>University of St. Andrews.</author>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>Excudebat Robertus Waldegraue typographus regius,</publisher>
+                  <pubPlace>Edinburgi :</pubPlace>
+                  <date>1595.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴ B³.</note>
+                  <note>Formerly STC 14047.--Cf. STC (2nd ed.).</note>
+                  <note>Reproduction of original in the University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">University of St. Andrews --  Dissertations.</term>
+               <term type="topical_term">Dissertations, Academic --  Scotland.</term>
+               <term type="topical_term">Predestination --  Examinations, questions, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:26221:1"/>
+            <p>
+               <hi>DE PRAEDESTINATIONE.</hi> SIVE DE CAVSIS SA<g ref="char:EOLhyphen"/>LVTIS ET DAMNATIONIS AETERNAE DISPVTATIO, IN QVA PRAESIDE <hi>D. ANDREA MELVINO, SACRAR.</hi> LITERARVM PROFESSORE, <hi>&amp; Rectore Academiae Regiae</hi> Andreanae in Scotia.</p>
+            <p>
+               <hi>Deo Ʋolente</hi> CHRISTOPHORVS IOHANNIDES <hi>D'ANVS respondebit.</hi>
+            </p>
+            <p>EDINBVRGI EXCVDEBAT ROBERTVS <hi>WAL<g ref="char:EOLhyphen"/>degraue Typographus Regius.</hi> 1595.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:26221:2"/>
+            <head>REVERENDIS CLARIS. CONSVL<g ref="char:EOLhyphen"/>TISSIMIS QVE VIRIS ACADEMIAE NASSOVIANAE NVNC SIGENAM TRANSLATAE, DOCTORIBVS ET PROFESSORIBVS PVBLICIS.</head>
+            <list>
+               <item>D. IOHANNI PISCATORI ARGENTINENSI. Rectori &amp; SS. theologiae professori primario.</item>
+               <item>Dn. IOHANNI GOEDDAEO, Iureconsulto &amp; Consiliario Nassovico.</item>
+               <item>Dn. IVSTO NAHVM, Theologo &amp; Pastori.</item>
+               <item>Dn. IOHANNI PINCIER Physico-Medico &amp; Archiatro Nassovico.</item>
+               <item>Dn. BERNHARDO TEXTORI Theologo &amp; Ecclesiastae.</item>
+               <item>Dn. IOHANNI ALTHVSIO, Iureconsulto.</item>
+               <item>Dn. IOHANNI GOTSLEBIO, Logico &amp; Paedagogearchae.</item>
+               <item>Dn. IOHANNI BISTERFELDT Mathematico.</item>
+               <item>Dn. HENRICO CRAFFT Iurisperito, &amp; Academico notario.</item>
+            </list>
+            <p>
+               <hi>NEC NON</hi>
+            </p>
+            <p>REVERENDIS ATQVE ORNATIS<g ref="char:EOLhyphen"/>SIMIS VIRIS, MYSTERIORVM DEI SINCERIS DISPENSATORIBVS DILLEMBVRGI NASSOVIO<g ref="char:EOLhyphen"/>RVM, D. VILHELMO ZEP<g ref="char:EOLhyphen"/>PER, ET D. MATTHIAE PHOENIO,</p>
+            <p>PRAECEPTORIEVS ET FAVTORIEVS MEIS:</p>
+            <p>Hanc disputationem de Praedestinatione, ad testandum consensum in doctrine orthodoxa, &amp; in signum amoris &amp; debitae observantiae inscribo, consecro, mitto ex Regia &amp; primaria academia Andreapolitana Scotorum.</p>
+            <closer>
+               <signed>
+                  <hi>Christoph. Iohannides Dalby</hi> DANVS.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:26221:2"/>
+            <head>DE AETERNA DEI PRAEDESTINATIONE.</head>
+            <p>SEV, <hi>DE CAVSIS SALVTIS ET</hi> DAM<g ref="char:EOLhyphen"/>nationis aeternae.</p>
+            <div n="1" type="part">
+               <head>THES. I.</head>
+               <p>
+                  <seg rend="decorInit">Q</seg>Vando quidem visum est sapientissimo Deo veritatem huius arcanae doctrinae de Prae<g ref="char:EOLhyphen"/>destinatione, siue de causis Salutis &amp; dam<g ref="char:EOLhyphen"/>nationis aeternae, per Prophetas &amp; Aposto<g ref="char:EOLhyphen"/>los Ecclesiae suae patefacere ad glorificatio<g ref="char:EOLhyphen"/>nem nominis sui, &amp; aedificationem nostrûm singulorum: eam in Ecclesijs, &amp; Scholis Christianis publicè proponi &amp; explicari, ob illas ipsas causas expedit, imò necessarium est: modò sobriè &amp; sapienter id fiat. 2. Timoth. 3. vers. 16. &amp; Cap. 2. vers. 24.25.26.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>Sobriè &amp; sapienter fiet, si explicatio omnis &amp; doctrina in<g ref="char:EOLhyphen"/>tra limites Scripturae Propheticae &amp; Apostolicae consistat, &amp; ad huius solius normam (depositâ omni curiositate humani ingenij, ac iudicio siue preiudicio carnis) religiosè &amp; sanctè exigatur: quod nobis in hac disputatione, per Dei gratiam, facere propositum est. Phil. 4. v. 5.6.7. 1. Pet. 2. v. 1.</p>
+            </div>
+            <div n="3" type="part">
+               <pb facs="tcp:26221:3"/>
+               <head>III.</head>
+               <p>Explicationis propositae duae erunt partes: quarum vna pertinet ad <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, seu <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: altera ad <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> sive ap<g ref="char:EOLhyphen"/>plicationem &amp; vsum.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IIII.</head>
+               <p>Praedestinatio, <hi>est</hi> (a) <hi>aeternum &amp;</hi> (b) <hi>immutabile</hi> DEI <hi>decretum, quo ante tempora secularia in sese con<g ref="char:EOLhyphen"/>stituit, quid de</hi> (c) <hi>vnoquoque hominum fieri vellet. Vel: Est aeternum</hi> DEI <hi>propositum,</hi> (d) <hi>quo secundum beneplaci<g ref="char:EOLhyphen"/>tum voluntatis suae, ante iacta mundi fundamenta, homi<g ref="char:EOLhyphen"/>num alios quidem amori &amp;</hi> (e) <hi>saluti, alios odio</hi> (f) <hi>&amp; exitio sempiterno destinando seipsum glorificare constituit. (a)</hi> Pro. 8. v. 22. Isai. 46. v. 10. 1. Cor. 2. v. 6. Eph. 1. v. 4. 2. Tim. 1. v. 9. <hi>(b)</hi> Mal. 3. v. 6. 1 Sam. 15. v. 29. Iob. 23. v. 13. Psa. 33 v. 11. Prov. 19. v. 21. Isa. 14. v. 24.25.26.27. &amp; 46. v. 10. Rom. 11.20. Heb. 7. v. 17.18.19. Iacob. 1. v. 17. <hi>(c)</hi> Rom. 9. v. 20.21.23. <hi>(d)</hi> Rom. 8.28. Eph. 1. v. 9.11. Act. 2. v. 23 <hi>(e)</hi> Rom. 9. v. 23. <hi>(f)</hi> Act. 1. v. 25. Ioh 17.12. 1. Pet. 2. v. 8 Iud. v. 4. Apoc. 17. v. 24.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>
+                  <hi>Praedestinatio à Providentia differt, quod Providentia</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) <hi>res</hi> (a) <hi>vniversas &amp;</hi> (b) <hi>singulas in hoc mundo prae<g ref="char:EOLhyphen"/>ordinet, disponat &amp; regat: Praedestinatio verò (quae</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>dicitur) specialiter creaturae</hi> (c) <hi>rationalis &amp; hominum praecipuè vitam &amp; mortem respiciat. (a)</hi> Gen. 6. v. 19. Psal. 14. v. 27. &amp; 145. v. 16. Isa. 45.7. <hi>(b)</hi> Gen. 45.8. &amp; 50. v. 20 Exod. 4. v. 11. Ios. 11. v. 6. 2. Sam. 12. v. 12. &amp; 16. v. 10. 1. Reg. 22.20. Prov. 21. v. 1. Dan. 4. v. 32. <hi>(c)</hi> Exod. 33.19 Iob. 12. v. 16.17. Psal. 105.25. Prou. 16. v. 4. Eccles. 7.13. Iere. 13. v. 25. Ezech. 36. v. 26.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>In hoc Praedestinationis Decreto duae summae &amp; commu<g ref="char:EOLhyphen"/>nes causae considerandae imprimis veniunt, <hi>Efficiens</hi> &amp; <hi>Finalis.</hi>
+               </p>
+            </div>
+            <div n="7" type="part">
+               <pb facs="tcp:26221:3"/>
+               <head>VII.</head>
+               <p>Efficiens <hi>suprema &amp; communis est</hi> (a) <hi>voluntas</hi> DEI, <hi>cum decreto ipsias aeterno &amp; immutabili coniuncta. Siue, benepla<g ref="char:EOLhyphen"/>citum</hi> DEI <hi>secundum propositum eius qui omnia efficit ex</hi> (b) <hi>consilio voluntatis suae. (a)</hi> Mat. 7. v. 21. cap. 12. v. ult. Ioh 6. v. 39. Rom. 12. v. 2. Col. 1. v. 9. 1. Thes. 4.3. <hi>(b)</hi> Psa. 33. v. 11. Isa. 14. v. 26.27. &amp;. 19. v. 17.18. &amp; 28. v. ult. &amp; 46. v. 10. Iere. 32. v. 19. &amp; 50. v. 44.45. Act. 2.23. Ephes. 1. v. 5. &amp; 11.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>
+                  <hi>Voluntatem siue</hi> (a) <hi>beneplacitum</hi> DEI <hi>supremam cau<g ref="char:EOLhyphen"/>sam Praedestinationis dicimus: quia</hi> (b) <hi>Scriptura supra hanc nullam aliā causam nobis proponit, &amp; fides simul cum scrip<g ref="char:EOLhyphen"/>tura in hac vnica causa nos acquiescere iubet. Ita vt huius causae</hi> (c) <hi>causam quaerere, temerariae sit audaciae ac impiae cu<g ref="char:EOLhyphen"/>riositatis. (a)</hi> Rom. 8. v. 29. Mat. 11. v. 25.26. Rom. 9.18. <hi>(b)</hi> Mal. 1. v. 23. Isai. 45. v. 9.10.11.12. Ier. 18.6. 2. Tim. 2. v. 20. <hi>(c)</hi> Rom. 11.33.34, 35. &amp; cap. 9. v. 14, 15, 16, 17 18, 19, Sap. 1. v. 3.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>Communem autem causam dicimus: quod ad vtram{que} Praedestinationis differentiam siue speciem, Electionem &amp; Reprobationē, de quibus mox dicendum, communiter spectet</p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>Finis autem summus &amp; communis est, <hi>(a)</hi> Gloria <hi>DEI. I.</hi> Gloria gratiae, <hi>(b)</hi> misericordiae &amp; <hi>(c)</hi> Iustitiae <hi>DEI,</hi> quam in alijs in Christo adoptandis &amp; seruandis declarare voluit. <hi>II.</hi> Gloria Iustitiae &amp; <hi>(d)</hi> potentiae suae in alijs iusto iudicio con<g ref="char:EOLhyphen"/>demnandis. <hi>III.</hi> Deni{que} gloria liberrimae <hi>(e)</hi> potestatis, tum in seruandis, tum abdicandis. (a) <hi>Prou. 16, v. 4,</hi> (b) <hi>Eph. 1, v. 6, 12, Rom. 9, 23,</hi> (c) <hi>Rom. 3, v. 25, 26,</hi> (d) <hi>Rom. 9, 17 &amp; 22.</hi> (e) <hi>Rom. 9, v, 15, 18, 20, 21.</hi>
+               </p>
+            </div>
+            <div n="11" type="part">
+               <pb facs="tcp:26221:4"/>
+               <head>XI.</head>
+               <p>Secundum duos illos priores fines, &amp; duo <hi>(a)</hi> hominum ge<g ref="char:EOLhyphen"/>nera in quibus gratiam vel severitatem suam ostendere con<g ref="char:EOLhyphen"/>stituit <hi>DEVS,</hi> duae sunt Praedestinationis species sive diffe<g ref="char:EOLhyphen"/>rentiae, Electio &amp; Reprobatio. <hi>(a) Psal. 1. v. 6, &amp; 37. v. 28. &amp; 105. v. 6. &amp; 33. v. 12. &amp; 65. v. 5. &amp; 106. v. 4.5. 2. Pet. 2. v. 9.</hi>
+               </p>
+            </div>
+            <div n="12" type="part">
+               <head>XII.</head>
+               <p>Duas autem esse Praedestinationis species ex Scriptura manifestum est, &amp; duos tantum esse hominum ordines: alios nimirum Electos &amp; seruandos (quorum numerus vt certus est &amp; <hi>(a)</hi> finitus: ita soli <hi>(b) DEO</hi> notus) alios Reprobos &amp; in aeternum abdicandos: (quorum numerus quoque certus est &amp; desinitus <hi>DEO</hi>) &amp; ex quorum numero est maior <hi>(c)</hi> Mun<g ref="char:EOLhyphen"/>di pars, &amp; ideò Mundi <hi>(d)</hi> nomine saepè appellantur. (a) <hi>Isai. 53. v. 11. Iohn 10. v. 11.27.28.29.30. &amp; 17. v. 2.6.9.10.24. Isai. 10. v. 22. Rom. 8. v. 14. &amp; 9.27, &amp; 11. v. 7</hi> (b) <hi>1. Reg. 19 v. 18. Rom. 11. v. 3.4. 2. Tim. 2. v. 19.</hi> (c) <hi>Mat. 22. v. 14. Mar. 12. v. 13. Luc. 20. v. 20.</hi> (d) <hi>Iohn 14. v. 17. 19. 22. &amp; Cap. 15. v. 18.19. &amp; 17. v. 6.9.14.15. &amp;c.</hi>
+               </p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII.</head>
+               <p>Caeterum Electio &amp; Reprobatio propriè quidem ad ho<g ref="char:EOLhyphen"/>minis conditionem iam conditi &amp; lapsu corrupti referuntur, ita vt per electionem significetur temporalis <hi>(a)</hi> separatio quo<g ref="char:EOLhyphen"/>rundam hominum, è perdito genere humano per vocationem è tenebris <hi>(b)</hi> ad lucem: per Reprobationem verò significetur praeteritio siue reiectio aliorum, qui sibi &amp; suo vitio relicti <hi>(c)</hi> à Deo abdicantur: sed Metonymicè pro ipso Eligendi &amp; Reprobandi aeterno decreto accipiuntur. <hi>(a) Mat. 3. vers. 12. Luc. 3. v. 17. Iohn 17. v. 6.</hi> (b) <hi>Isai. 9. v. 2.</hi> (c) <hi>Isai. 6. v. 9. Mat. 13. v. 14. Marc. 4. v. 12, Luc. 8. v. 10. Act. 28. v. 26.</hi>
+               </p>
+            </div>
+            <div n="14" type="part">
+               <head>XIIII.</head>
+               <p>Electio est Praedestinatio quorundam hominum in Chri<g ref="char:EOLhyphen"/>sto ad vitam aeternam: qua scilicet <hi>DEVS</hi> volens manife<g ref="char:EOLhyphen"/>stare
+<pb facs="tcp:26221:4"/> gloriam gratiae suae ex sola <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, constituit certos aliquos homines gratis in Christo adoptare, vt in ipso sint participes caelestis haereditatis &amp; vitae aeternae. <hi>Ephes. 1. v. 5.6. Mat. 22. v. 14. Rom. 8. v. 28. &amp; 9. v. 21. Luc. 10. v. 20. Act. 13. v. 48. Philip. 4. v. 3. Apoc. 3. v. 5. &amp; 21. v. 27.</hi>
+               </p>
+            </div>
+            <div n="15" type="part">
+               <head>XV.</head>
+               <p>Causa efficiens Impulsiua siue <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> dicitur sola <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> se solum respiciens omnem ali<g ref="char:EOLhyphen"/>am <hi>(a)</hi> externam causam excludens, quae sit aut esse possit in hominibus, praeuisae fidei, dignit atis, sanctitatis, aut bonorum operum, &amp;c. (a) <hi>Ephes. 1. v. 4.9. &amp; Cap. 2. v. 10. Eph. 1. v. 5. Ioh. 1. v. 12. Tit. 3. v. 5.</hi>
+               </p>
+            </div>
+            <div n="16" type="part">
+               <head>XVI.</head>
+               <p>Falsissimum ergo est dogma tum Pelagianorum, tum Se<g ref="char:EOLhyphen"/>mi-pelagianorum, qui extra Deum causas salutis humanae in hominibus ipsis comminiscuntur. Sic enim &amp; certitudinem salutis nostrae convellunt, quae in vnica <hi>DEI</hi> miserentis gra<g ref="char:EOLhyphen"/>tia ita certa est &amp; firma, vt impossibile <hi>(a)</hi> sit Electos ea exci<g ref="char:EOLhyphen"/>dere, &amp; Deum gloria gratiae ac misericordiae suae dispoliant: Cui laus et gloria in Electione nostra soli, in solidum debetur. (a) <hi>Ioh. 17. v. 2.6.9.11.12.19.20.24. &amp; Cap. 10. v. 27.28. 29. Luc. 22. v. 31.32. Psa. 51. v. 13. 2. Sam, 7. v. 14.15. Con<g ref="char:EOLhyphen"/>fer. Psal. 1. v. 3. &amp;c.</hi>
+               </p>
+            </div>
+            <div n="17" type="part">
+               <head>XVII.</head>
+               <p>Enimverò nihil dignitatis aut boni in hominibus praevi<g ref="char:EOLhyphen"/>dere potuit <hi>DEVS,</hi> qui naturâ sunt <hi>(a)</hi> hostes <hi>DEI,</hi> Filij <hi>(b)</hi> irae, mortui in <hi>(c)</hi> peccatis, inutiles vel ad cogitandum aliquid <hi>(d)</hi> boni tanquam ex semetipsis. Denique in quibus nihil est per naturam, praeter materiam <hi>(e)</hi> mortis &amp; damnationis aternae. (a) <hi>Rom. 5, v. 10,</hi> (b) <hi>Eph. 2, v. 3.</hi> (c) <hi>Rom. 7, v. 10 Col. 2, 13, Heb. 9, 14, Eph. 2, 1</hi> (d) <hi>2, Cor. 3, 5,</hi> (e) <hi>Iob. 15 v. 14, 15, 16, Psal. 14, 3, &amp; 143, 2, Iere. 10, 23.</hi>
+               </p>
+            </div>
+            <div n="18" type="part">
+               <pb facs="tcp:26221:5"/>
+               <head>XVIII.</head>
+               <p>Quod si ex praevisa fide nostra, sanctitate, aut operibus nostris esset Electio: Fides <hi>(a)</hi> esset à nobis, non à <hi>DEO,</hi> &amp; se<g ref="char:EOLhyphen"/>queretur nos <hi>DEVM</hi> priús <hi>(b)</hi> dilexisse &amp; elegisse: quae falsa esse &amp; absurda Scriptura demonstrat. Et locus ille de non<g ref="char:EOLhyphen"/>dum natis pueris Esa<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>co &amp; Iacobo, quum nihil fecissent boni vel mali inter alia euidens est, contra fictitiam istam et scrip<g ref="char:EOLhyphen"/>turae ignoratam Praescientiam. <hi>Rom. 9. v. 11,</hi> &amp; deinceps, (a) <hi>Ioh. 3. v. 3.5.6.7.8.</hi> (b) <hi>Ioh. 6. v. 37. Cap. 8. v. 47. &amp; 10. v. 26. Act. 13. v. 48. Tit. 1. v. 1. 2. Thes. 3. v. 2. Mat. 16. v. 17. Ephes. 2. v. 8. Ioh 6. v. 45. Act. 16. v. 14.</hi> (c) <hi>1. Ioh. 4. v. 9.10. &amp;c. &amp; Cap. 15. v. 16.</hi>
+               </p>
+            </div>
+            <div n="19" type="part">
+               <head>XIX.</head>
+               <p>Cum Apostolo igitur asserimus <hi>DEVM</hi> antequam ia<g ref="char:EOLhyphen"/>cerentur fundamenta Mundi nos elegisse vt Sancti esse<g ref="char:EOLhyphen"/>mus, non autem, quia sanctos futuros praevidit tanquam ex operibus nostris. Neque elegit dignos, sed eligendo dignos fa<g ref="char:EOLhyphen"/>cit, inquit rectissimè Augustinus lib. 5. cont. Iulian. Con<g ref="char:EOLhyphen"/>fer. <hi>Ioh. 15. v. 16. Ephes. 1. v. 4. Tit. 3. v. 4.5.6.7.</hi>
+               </p>
+            </div>
+            <div n="20" type="part">
+               <head>XX.</head>
+               <p>
+                  <hi>Fundamentum Electionis &amp; Salutis nostrae est in solo me<g ref="char:EOLhyphen"/>rito &amp; vnica efficacia obedientiae passiuae, seu passionis &amp;</hi> (a) <hi>mortis Iesu Christi. Quos enim seruare decreuit</hi> DEVS, <hi>eosdem Christo dare &amp; inserere constituit, neque est in ali<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> (b) <hi>quoquam Salus. (a)</hi> 1, Corinth. 3, v. 11, Mat. 20, v. 28, &amp; 26. v. 28. Luc. 22. v. 20. Ioh. 1. v. 29. Act. 20. v. 28. Rom. 3. v. 14.25. &amp; 5. v. 9.10. &amp; 8. v. 3. Gal. 3. v. 13. Tit. 2. v. 14. Heb. 2. v. 14.15. &amp; 9. v. 12.14.22.26. &amp; 10. v. 10.12.14.19. 1. Pet. 1. v. 19. 1. Pet. 2. v. 4. 1. Pet. 3. v. 18. 1. Ioh. 1. v. 7. &amp; 2. Cap. v. 2. 1. Ioh. 1. v. 7. Apocal. 1. v. 5. <hi>(b)</hi> Act. 4. v. 12.</p>
+            </div>
+            <div n="21" type="part">
+               <head>XXI.</head>
+               <p>Et in quo <hi>DEVS</hi> summam gratiam &amp; misericordiam, &amp; summam pariter severitatem &amp; iustitiam demonstravit.
+<pb facs="tcp:26221:5"/> Summam gratiam &amp; misericordiam erga nos, dum gratis &amp; misericorditer condonatis peccatis nostris in illo nobis do<g ref="char:EOLhyphen"/>nat vitam. Severitatem verò Iustitiae suae, dum proprio filio propter nos non pepercit, sed peccata nostra severè vltus est in illo. <hi>Exod. 34. v. 6.7 Psal. 5. v. 56. Ioh. 3. v. 14.15. 2. Cor. 5. vers. vlt.</hi>
+               </p>
+            </div>
+            <div n="22" type="part">
+               <head>XXII.</head>
+               <p>Finis proprius est salus, vita, &amp; glorificatio Electorum: Subordinatus ille quidem summo &amp; principali fini nempe gloriae <hi>DEI</hi> eligentis. <hi>Colos. 1, v. 12.13, 2. Thes. 2. vers. 13.14. &amp;c.</hi>
+               </p>
+            </div>
+            <div n="23" type="part">
+               <head>XXIII.</head>
+               <p>Porrò prout <hi>DEVS</hi> praedestinauit nos ad hunc finem: ita etiam ad media <hi>(a)</hi> omnia, per qua tanquam per gradus executionem summi illius decreti ad suum finem perduci con<g ref="char:EOLhyphen"/>stituit. (a) <hi>Rom. 1. v. 16. &amp; Cap. 18. v. 17. 1 Cor. 3. v. 5. 1. Pet. 1. v. 23. &amp; 25.</hi>
+               </p>
+            </div>
+            <div n="24" type="part">
+               <head>XXIIII.</head>
+               <p>Media per quae progreditur Decreti executio, alia sunt communia tum Electioni, tum Reprobationi: alia propria. Communia sunt Creatio hominis in sanctitate <hi>(a)</hi> &amp; iustitia vera, lapsus &amp; lapsum insecuta <hi>(b)</hi> corruptio totius generis humani: ex quo visum est Deo alios sibimet separare &amp; eli<g ref="char:EOLhyphen"/>gere ad vitam, alios verò incorruptione relictos praeterire. (a) <hi>Gen. 1. v. 26.27. &amp; 31. Eccles. 7. v. 29.</hi> (b) <hi>Genes. 3. per totum &amp; Cap. 5. v. 3. Rom. 5. v. 12. 1. Cor. 15. v. 49. 50. &amp;c.</hi>
+               </p>
+            </div>
+            <div n="25" type="part">
+               <head>XXV.</head>
+               <p>Propria Electionis sunt praecipuè ista: Vocatio efficax per fidem, Iustificatio, Sanctificatio, Glorificatio: sub quibus re<g ref="char:EOLhyphen"/>liqui fidei &amp; Regenerationis fructus omnes continētur: quam catenam verè auream nectit &amp; demonstrat Apostolus. <hi>Rom. 8, v. 29.30.</hi> Confer. <hi>Rom. 8. v. 38.39. Ioh. 10. v. 28. Rom. 11. v. 29, Luc. 22. v. 32. 1. Pet. 1. v. 5. &amp; 23. 1. Ioh. 2.
+<pb facs="tcp:26221:6"/> v. 19. 2. Tim. 2. v. 19. Psal. 1. v. 3. Esai. 42. v. 3. Iere. 32. v. 40, Osea. 2. v. 19. &amp; 20. Marc. 9. v. 24. Psal. <gap reason="illegible: blotted" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+               </p>
+            </div>
+            <div n="26" type="part">
+               <head>XXVI.</head>
+               <p>Reprobatio est qua Deus ab aeterno constituit quosdam in Adamo corruptos &amp; sibi relictos morti &amp; exitio aeterno ad<g ref="char:EOLhyphen"/>iudicare, vt in his vasis ignominiae coagmentatis ad interi<g ref="char:EOLhyphen"/>tum notam faceret gloriam tum Iustitiae, tum potentiae suae, <hi>Prov. 16. v. 4. Exo. 9. v. 16. Rom. 9. v. 22. 2. Pet. 2. v. 4. Iob. 4. v. 18. &amp; 19. v. 15. Iud. v. 4. Apoc. 13. v. 8. &amp; 17. v. 8. &amp; 20. vers. 15.</hi>
+               </p>
+            </div>
+            <div n="27" type="part">
+               <head>XXVII.</head>
+               <p>Hîc homo impiè tumultuatur &amp; insurgit adversus De<g ref="char:EOLhyphen"/>um, feu lutum sumens sibi iudicium de figulo suo, accusans Deum iniustitiae &amp; crudelitatis: Sed hanc calumniam iniu<g ref="char:EOLhyphen"/>stam esse: neque vllam esse iniustitiam aut crudelitatem in Deo manifestum est, si vel Deum intueamur, sive homines ipsos, &amp; media per quae decretum istud in hominibus perfici<g ref="char:EOLhyphen"/>tur. <hi>Mal. 1. v. 2. Isa. 45. v. 9.10.11.12. Iere. 18. v. 6. 2. Tim. 2. v. 20.</hi>
+               </p>
+            </div>
+            <div n="28" type="part">
+               <head>XXVIII.</head>
+               <p>
+                  <hi>DEVS</hi> vt in omnes creaturas, ita in hominem summam &amp; liberrimam obtinet proprio suo iure potestatem, seu Figu<g ref="char:EOLhyphen"/>lus in lutum. Annon Figulus habet potestatem in lutum, vt ex eadem massa faciat aliud quidem vas ad decus, aliud ad dedecus: Tu igitur O homo! tu quis es qui ex adversort-sponsas <hi>DEO? Rom. 9. v. 14.15.16.18.19.20.21.</hi>
+               </p>
+            </div>
+            <div n="29" type="part">
+               <head>XXIX.</head>
+               <p>Iustissimum porrò esse hoc Decretum liquet ex medijs &amp; gradibus tum communibus, tum proprijs, per quos Reprobi progrediendo causa sibi ipsi sunt iustissimae condemnationis, <hi>Iob. 12. v. 17. Psal. 7. v. 16. &amp; 9. v. 16.17. &amp; 10. v. 2. &amp; 57. v. 7. &amp; 5<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. v. 4.</hi>
+               </p>
+            </div>
+            <div n="30" type="part">
+               <pb facs="tcp:26221:6"/>
+               <head>XXX.</head>
+               <p>Communia media sunt illa ipsa de quibus suprà, nimirum creatio in integritate, &amp; iustitia, à qua homines sponte &amp; li<g ref="char:EOLhyphen"/>berrima voluntate defecerunt, deficiendo Deum offenderunt seipsos corruperunt, &amp; iudicium ac exitium sibi ipsis suapte culpa attraxerunt. <hi>Prov. 5. v. 22. &amp; 11. v. 6. 27, &amp; 12, v. 26. &amp; 22. v. 8. &amp; 26. v. 27. &amp; 29. v. 6. Eccles. 10. v. 8. Esa. 33. v. 11.</hi>
+               </p>
+            </div>
+            <div n="31" type="part">
+               <head>XXXI.</head>
+               <p>Adhaec accedunt propria media, videlicet in naturali cor<g ref="char:EOLhyphen"/>ruptione derelictio, infidelitas, inefficax aut nulla vocatio, induratio in peccatis: vnde est perpetua <hi>DEI</hi> aversatio &amp; perpetua progressio ex peccato in peccatum: Vnde iustissi<g ref="char:EOLhyphen"/>mam sibi damnationem accersunt. Iustus igitur est Domi<g ref="char:EOLhyphen"/>nus &amp; iusta &amp; recta omnia iudicia eius. <hi>Exodus 7, v, 22. 23. &amp; 8. v. 15. &amp; 9. v. 34. 2. Paral. 36. v. 13. Act. 13. v. 46. Psal. 119. v. 137.</hi>
+               </p>
+            </div>
+            <div n="32" type="part">
+               <head>XXXII.</head>
+               <p>Hactenus eaquae ad <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> praecipuè spectant. Sequitur <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> sive Applicatio. Cuius talis erit ratio. Quemadmodum <hi>DEVS</hi> à summo &amp; aeterno Decreto per inter-medios siue gradus siue media (quae effecta sunt illius Decreti) ad nos de<g ref="char:EOLhyphen"/>scendens gratiam &amp; misericordiam suam patefacit: Ita nos per illos ipsos gradus &amp; effecta (ordine effectorum servato) regrediendo ascendimus ad certitudinem Electionis nostrae, quam in vnica <hi>DEI</hi> misericordia fundatam esse firmissimè deprehendemus.</p>
+            </div>
+            <div n="33" type="part">
+               <head>XXXIII.</head>
+               <p>Quare secundùm ordinem Applicationis incipiendum erit à Regenerationis &amp; Sanctificationis operibus, inde ad iustificationem, à iustificatione ad fidem &amp; efficacem vocatio<g ref="char:EOLhyphen"/>nem progrediendo: Ex quibus <hi>DEI</hi> donis si ea adsint (sunt enim ista <hi>DEI</hi> dona <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) certissimum de Electione
+<pb facs="tcp:26221:7"/> sua fidelis facere iudicium potest. <hi>Iohn 1. v. 13. Rom. 7. v. 6 1. Pet. 1. vers. 23. Ephes. 1. v. 5. Rom. 9. v. 29. Rom. 9. v. 11 Ephes. 1. v. 4.</hi>
+               </p>
+            </div>
+            <div n="34" type="part">
+               <head>XXXIIII.</head>
+               <p>Adest porrò in sanctis <hi>DEI</hi> filijs, Spiritus S. testimoni<g ref="char:EOLhyphen"/>um, testificantis Spiritui nostro, nos esse Filios <hi>DEI,</hi> per quem Spiritum intrepidè clamamus Abba Pater. <hi>Rom. 8. v. 14.15.16. Gal. 4. v. 6.</hi>
+               </p>
+            </div>
+            <div n="35" type="part">
+               <head>XXXV.</head>
+               <p>Si quis verò haec Spiritus &amp; Regenerationis effecta in se nondum senserit, aut languida senserit, non tamen proptereà statuet ilico se esse ex Reproborum numero, aut de Salute sua desperare debet, quin potius ad verbum &amp; voluntatem <hi>DEI</hi> revelatam confugiet, vt ei obediendo per fidem salutem con<g ref="char:EOLhyphen"/>sequatur. <hi>Mat. 17. v. 20, Marc. 11, v. <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3, Luc. 17. v. 6, Ioh. 17. v. 19. Heb. 10. v. 10. Rom. 10. v. 10.14, 15, 16, 17, 1. Cor. 11. v. 25, 26, Iohn 6. v. 44, 45, 2, Pet. 3, v. 9, Psa. 119, v. 105.</hi>
+               </p>
+            </div>
+            <div n="36" type="part">
+               <head>XXXVI.</head>
+               <p>Itaque sicut nec desperandum est homini de misericordia <hi>DEI</hi> quandiu non peccat ad mortem sive in Spiritum S. quum alij alijs tardiùs à <hi>DEO</hi> vocentur: quod celebre illud latronis in cruce cum Christo pendentis exemplum ostendit: ita nec securè peccandum est spe misericordiae divinae, ita ar<g ref="char:EOLhyphen"/>gumentando: Si sum Electus, salvus fiam, quicquid fecero. Si<g ref="char:EOLhyphen"/>cut enim ad salutem <hi>DEVS</hi> nos praedestinavit: Ita etiam ad hoc vocauit &amp; elegit, vt sācti &amp; inculpati essemus. <hi>Mat. 20. v. 3.</hi> &amp; deinceps, <hi>Luc. 23, v. 40,</hi> &amp; deinceps, <hi>1 Iohn 5, v. 16, Mat. 12, v. 31, &amp;c. Isa. 95, v. 7, 8, Heb. 3, 7, Gal. 6, 7, Ephes. 1 v. 4, &amp; Cap. 2, v. 10, Rom. 8, v, 28, &amp;c.</hi>
+               </p>
+            </div>
+            <div n="37" type="part">
+               <head>XXXVII.</head>
+               <p>Vsus deni{que} huius doctrinae sunt isti: Primus, vt perpe<g ref="char:EOLhyphen"/>tuò
+<pb facs="tcp:26221:7"/> hanc doctrinam meditantes, emnem gloriam salutis no<g ref="char:EOLhyphen"/>strae vnico benignissimo <hi>DEO</hi> tribuamus, &amp; grati infinitam eius bonitatem celebremus, qui nos in nobis perditos ex gra<g ref="char:EOLhyphen"/>tia in Christo Filio suo servare voluerit. <hi>Psal. 28. v. 2. &amp; 35 v. 18. &amp; ult. Psal. 51, v. 17. Ephes. 1. v. 3.4.5.6.7.11.</hi>
+               </p>
+            </div>
+            <div n="38" type="part">
+               <head>XXXVIII.</head>
+               <p>Secundus, vt gratitudinem nostram, per omnem vitam sanctitate &amp; bonis operibus <hi>DEO</hi> probare, &amp; firmam voca<g ref="char:EOLhyphen"/>tionem nostram efficere studeamus. <hi>2. Pet. 1. v. 5.6.7.8.10.</hi>
+               </p>
+            </div>
+            <div n="39" type="part">
+               <head>XXXIX.</head>
+               <p>Tertius vsus, vt persuasi de diuina erga nos misericor<g ref="char:EOLhyphen"/>dia &amp; amore in Christo firmissimum solatium hinc petamus &amp; hauriamus in omni tentatione nostra, adversus omnia ignîta tela Diaboli, certò statuentes, neque mortem ne{que} vi<g ref="char:EOLhyphen"/>tam, ne{que} Angelos, ne{que} principatus, ne{que} potestates, ne{que} praesentia, ne{que} futura, ne{que} sublimitatem, ne{que} profundita<g ref="char:EOLhyphen"/>tem, ne{que} vllam rem aliam creatam posse nos separare à Cha<g ref="char:EOLhyphen"/>ritate Dei, quae est in Christo Iesu Domino nostro: <hi>Rom. 8. v. 38.39.</hi> Cui cum Patre &amp; Spiritu S. sit Laus, ho<g ref="char:EOLhyphen"/>nor &amp; benedictio in omne aevum. Amen.</p>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Paulus ad Rom.</hi> Cap. 11. vers. 33.34.35.</bibl>
+                     <p>O Profundas divitias tum Sapientiae, tum cogniti<g ref="char:EOLhyphen"/>onis DEI! quam inscrutabilia sunt ejus judicia &amp; ejus
+<pb facs="tcp:26221:8"/> viae impervestigabiles? Quis enim cognovit mentem Domini? aut quis ei fuit a consilio? Aut quis prior de<g ref="char:EOLhyphen"/>dit ei, &amp; reddetur ei?</p>
+                  </q>
+               </epigraph>
+               <epigraph>
+                  <q>
+                     <bibl>AVGVSTINVS.</bibl>
+                     <p>Tu homo exspectas a me respon<g ref="char:EOLhyphen"/>sum: &amp; ego sum homo. Itaque ambo audiamus dicen<g ref="char:EOLhyphen"/>tem, O homo tu quis es? melior est fidelis ignorantia quam temeraria scientia. Quaere merita: non invenies nisi poenam. O altitudo! Petrus negat: Latro credit. O altitudo! Quaeris tu rationem? Ego expavescam alti<g ref="char:EOLhyphen"/>tudinem. Tu ratiocinare, ego mirabor: tu disputa, ego credam: altitudinem video, ad profundum non perve<g ref="char:EOLhyphen"/>nio. Requievit Paulus, quia admirationem invenit: Vo<g ref="char:EOLhyphen"/>cat ille inscrutabilia DEI judicia: &amp; tu scrutari venisti? Ille dicit investigabiles ejus vias: &amp; tu vestigas?</p>
+                  </q>
+               </epigraph>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
